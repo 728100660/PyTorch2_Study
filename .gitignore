@@ -147,3 +147,5 @@ deployment/docker/volumes/*
 
 core/model_runtime/model_providers/newgrand/llm/*.yaml
 !core/model_runtime/model_providers/newgrand/llm/_position.yaml
+
+*.wav
